@@ -190,7 +190,7 @@
     </ui:SendHotkey>
     <ui:TypeInto AlterIfDisabled="{x:Null}" ClickBeforeTyping="{x:Null}" DelayBefore="{x:Null}" DelayBetweenKeys="{x:Null}" DelayMS="{x:Null}" EmptyField="{x:Null}" SendWindowMessages="{x:Null}" SimulateType="{x:Null}" Activate="True" DisplayName="Type Into 'editable text'" sap:VirtualizedContainerService.HintSize="334,134" sap2010:WorkflowViewState.IdRef="TypeInto_3" Text="use btpns; Select * From data;">
       <ui:TypeInto.Target>
-        <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="2ada5a81-ffc5-4838-8209-319bca144f1f" InformativeScreenshot="9c235b1c989fe7721a5213682d650a93" Selector="&lt;wnd app='ssms.exe' cls='HwndWrapper*' title='SQLQuery1.sql - H0001N593605F2.master (sa (52)) - Microsoft SQL *' /&gt;&lt;wnd cls='GenericPane' title='SQLQuery1.sql - H0001N593605F2.master (sa (52))' /&gt;&lt;wnd ctrlname='SqlScriptEditorControl' /&gt;&lt;wnd ctrlname='m_Editor' /&gt;&lt;wnd cls='HwndWrapper*' /&gt;&lt;ctrl automationid='WpfTextView' /&gt;">
+        <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="2ada5a81-ffc5-4838-8209-319bca144f1f" InformativeScreenshot="4cc6480d52c4c48d95ed961612add3f4" Selector="&lt;wnd app='ssms.exe' cls='HwndWrapper*' title='SQLQuery1.sql - H0001N593605F2.master (sa (65)) - Microsoft SQL *' /&gt;&lt;wnd cls='GenericPane' title='SQLQuery1.sql - H0001N593605F2.master (sa (65))' /&gt;&lt;wnd ctrlname='SqlScriptEditorControl' /&gt;&lt;wnd ctrlname='m_Editor' /&gt;&lt;wnd cls='HwndWrapper*' /&gt;&lt;ctrl automationid='WpfTextView' /&gt;">
           <ui:Target.TimeoutMS>
             <InArgument x:TypeArguments="x:Int32" />
           </ui:Target.TimeoutMS>
